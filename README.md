@@ -18,4 +18,4 @@ Most of my work here is private — personal projects, coursework, and experimen
 - Premiere Pro / After Effects
 
 ---
-*Most repos are private — this profile is my personal design & dev space.* 🔒
+*Most repos are private — this profile is my personal design & dev space.* 
