@@ -15,7 +15,7 @@ Most of my work here is private — personal projects, coursework, and experimen
 - Blender / Maya
 - Photoshop / Illustrator
 - Substance Painter
-- Premiere Pro
+- Premiere Pro / After Effects
 
 ---
 *Most repos are private — this profile is my personal design & dev space.* 🔒
