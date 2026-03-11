@@ -6,7 +6,7 @@ Most of my work here is private — personal projects, coursework, and experimen
 
 ## 🎮 What I'm Into
 - Game Design & Development
-- UI/UX & Visual Design
+- Visual Design
 - Exploring creative tools and workflows
 - Learning by building
 
